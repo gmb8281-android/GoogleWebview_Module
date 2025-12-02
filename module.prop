@@ -1,0 +1,6 @@
+id=webview-google
+name=GoogleWebView by GMB8281
+version=v1.2
+versionCode=1
+author=GMB8281
+description=This module installs com.google.android.webview as a system app, to replace the AOSP implementation.
